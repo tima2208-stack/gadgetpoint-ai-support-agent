@@ -62,7 +62,8 @@
 
 ## 6. Прототип
 
-![n8n workflow](docs/img/n8n-workflow.png)
+<img width="962" height="467" alt="n8n-workflow" src="https://github.com/user-attachments/assets/6f6a5153-653b-498b-9426-86fc41ff1564" />
+
 
 ```
 Чат → [код] Нужен человек? ──да──→ [код] Эскалация по правилу
