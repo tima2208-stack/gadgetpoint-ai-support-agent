@@ -120,4 +120,4 @@
 
 ---
 
-Автор: Тимофей Миронов · [Telegram](https://t.me/xxxpsixxx)
+Автор: Тимофей Миронов · [Telegram] @xxxpsixxx
