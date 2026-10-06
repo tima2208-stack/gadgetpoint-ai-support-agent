@@ -1,0 +1,12 @@
+[
+  {"order_number": "GP-10231", "phone": "+79161234501", "status": "Доставлен", "delivery_date": "2026-09-28", "items": "Смартфон Nova X12, 128 ГБ"},
+  {"order_number": "GP-10232", "phone": "+79161234502", "status": "Передан в доставку", "delivery_date": "2026-10-06", "items": "Беспроводные наушники Pulse Air"},
+  {"order_number": "GP-10233", "phone": "+79161234503", "status": "Собирается на складе", "delivery_date": "2026-10-08", "items": "Робот-пылесос CleanBot 7"},
+  {"order_number": "GP-10234", "phone": "+79161234504", "status": "Оформлен, ожидает оплаты", "delivery_date": null, "items": "Ноутбук Vertex 15 Pro"},
+  {"order_number": "GP-10235", "phone": "+79161234505", "status": "Отменён", "delivery_date": null, "items": "Умные часы Orbit S3"},
+  {"order_number": "GP-10236", "phone": "+79161234506", "status": "Готов к выдаче в пункте самовывоза", "delivery_date": "2026-10-05", "items": "Беспроводные наушники Pulse Air"},
+  {"order_number": "GP-10237", "phone": "+79161234507", "status": "Доставлен", "delivery_date": "2026-09-30", "items": "Робот-пылесос CleanBot 7"},
+  {"order_number": "GP-10238", "phone": "+79161234508", "status": "Передан в доставку", "delivery_date": "2026-10-07", "items": "Смартфон Nova X12, 128 ГБ"},
+  {"order_number": "GP-10239", "phone": "+79161234509", "status": "Задерживается: товар ожидается на складе", "delivery_date": "2026-10-12", "items": "Ноутбук Vertex 15 Pro"},
+  {"order_number": "GP-10240", "phone": "+79161234510", "status": "Доставлен", "delivery_date": "2026-10-01", "items": "Умные часы Orbit S3"}
+]
